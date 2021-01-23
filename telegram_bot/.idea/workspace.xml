@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e9ed8e6-6ba6-4478-b37d-8d28ec9b5e82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iO44GZN0h2LRQDl6Os5gPxrtcn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegram_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.network2" />
+        <item itemvalue="Python.network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e9ed8e6-6ba6-4478-b37d-8d28ec9b5e82" name="Default Changelist" comment="" />
+      <created>1601765111410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601765111410</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Inspections" timestamp="1603662246564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1603662246564" />
+    <state x="184" y="113" width="1071" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601934671941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" width="1071" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601934671941" />
+    <state x="401" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603668870764">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="401" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603668870764" />
+    <state x="458" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608160447642">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1608160447642" />
+    <state x="458" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.784@0.25.1440.784" timestamp="1608158478493" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1608825352444">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608824951495" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.783@0.23.1440.783" timestamp="1604880663665" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1602633285768" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1601940058937" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1602080832017" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.25.1440.784@0.25.1440.784" timestamp="1608825352444" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1608825352443">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608824951493" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.783@0.23.1440.783" timestamp="1604880663664" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1602633285767" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1601940058937" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1602080832015" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.25.1440.784@0.25.1440.784" timestamp="1608825352443" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1608825352443">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608824951492" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.783@0.23.1440.783" timestamp="1604880663664" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1602633285766" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1601940058936" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1602080832014" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.25.1440.784@0.25.1440.784" timestamp="1608825352443" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1608825352444">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608824951494" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.783@0.23.1440.783" timestamp="1604880663665" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1602633285767" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1601940058937" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1602080832016" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.25.1440.784@0.25.1440.784" timestamp="1608825352444" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1603664407323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603664407323" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1603664407323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603664407323" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1603664407322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603664407322" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1603664407323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603664407323" />
+    <state x="294" y="52" key="SettingsEditor" timestamp="1608762195917">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="293" y="39" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608159371928" />
+    <state x="294" y="52" key="SettingsEditor/0.25.1440.784@0.25.1440.784" timestamp="1608762195917" />
+    <state x="374" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1608804566873">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="249" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1608804566873" />
+    <state x="374" y="242" key="com.intellij.ide.util.TipDialog/0.25.1440.784@0.25.1440.784" timestamp="1608230767337" />
+  </component>
+</project>
